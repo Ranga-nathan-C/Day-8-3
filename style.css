@@ -16,6 +16,8 @@
     align-items: center;
     flex-direction: column;
     justify-content: flex-end;
+    justify-items: center;
+    object-fit: fill;
 }
 .grid{
     display: grid;
